@@ -1,7 +1,7 @@
 Ks=11.7; % Relative permittivity of Silicon (unitless)
 e_0=8.854e-14; % in F/cm
 q=1.6e-19; % Charge of an electron in C
-k=8.617e-5; % in J/K
+k=8.617e-5; % in eV/K
 T=300; % Temp in Kelvin
 ni=1e10; % Intrinic carrier concentration in Si at 300k (cm^-3)
 Eg=1.12; % Gap energy for Si in eV
